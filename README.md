@@ -9,6 +9,7 @@ $ python wikiparse.py <file.xml> "Search Query"
 ```
 
 XML files can be found here: https://dumps.wikimedia.org/enwiki/latest/
+
 (I used "enwiki-latest-abstract.xml")
 
 Happy parsing!
